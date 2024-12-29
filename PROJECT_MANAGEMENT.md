@@ -9,8 +9,9 @@
 - [Issues and Projects in Github](https://www.youtube.com/watch?v=fFrq28RY1SQ)
 - Tasks in the Project can be generated from Issues on the Repository
 - Issues can assigned, labeled, and dates assigned for the roadmap and task board
+- Issue status in project can also be set by user or manager
 
 ### Users and Submissions (Pull Requests)
 - Each submission will not be on the main branch
 - Project manager to review and merge
-- 
+- Set status to done/complete if closed
