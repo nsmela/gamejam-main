@@ -6,5 +6,11 @@
 5. In the rew repo, add collaborators
 
 ## How to Use
+- [Issues and Projects in Github](https://www.youtube.com/watch?v=fFrq28RY1SQ)
 - Tasks in the Project can be generated from Issues on the Repository
 - Issues can assigned, labeled, and dates assigned for the roadmap and task board
+
+### Users and Submissions (Pull Requests)
+- Each submission will not be on the main branch
+- Project manager to review and merge
+- 
