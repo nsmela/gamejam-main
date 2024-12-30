@@ -31,6 +31,7 @@
   - [Tasks](#tasks)
   - [Design](#design)
   - [Time](#time)
+- [Assets](#assets)
   
 ## Development
 
@@ -158,3 +159,12 @@
 - [Screen2Gif](https://www.screentogif.com/) - Screen, webcam and sketchboard recorder with an integrated editor that exports to gif.
 - [Chronolapse](https://www.chronolapse.com/) - Easily create your own timelapse videos.
 - [All image editors](#image-editor) - Improve your marketing material by modifying it with image editors
+
+## Assets
+
+### 2D
+- [Kenny](https://kenney.nl/assets) - many free assets
+- [GameIcons](https://game-icons.net/) - open-source icons (png, svg) which can be modified before downloaded
+
+### 3D 
+- [Kenny](https://kenney.nl/assets) - many free assets
