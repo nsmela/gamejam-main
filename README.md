@@ -46,6 +46,7 @@
 - [Construct 3D](https://www.construct.net/en) - Powerful Javascript based engine with visual coding editor and more!
 - [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine) - A open source single-file prototyping and game-engine framework created in C++.
 - [gbdk-2020](https://github.com/gbdk-2020/gbdk-2020) - A C compiler, assembler, linker and set of libraries for the Z80 like Nintendo Gameboy.
+- [MonoGame](https://monogame.net/) - By leveraging C# and other .NET languages on Microsoft and Mono platforms you can write modern, fast, and reliable game code using your editor of choice.
 
 ### Framework
 - [Phaser](https://phaser.io/) - Fast, free and open-source framework for Canvas and WebGL powered browser games.
@@ -57,14 +58,17 @@
 ### Online Services
 - [Dreamlo](https://dreamlo.com/) - Add leaderboards and promocodes to your game.
 - [YogurtTheHorse Leaderboards](https://github.com/YogurtTheHorse/highscores) - Free to use leaderboards with open-source server side.
+  [PlayFab](https://playfab.com/) - hosted by Microsoft Azure
 
 ### Tools
 - [Visual Studio Code](https://code.visualstudio.com/) - Free code editor. Built on open source. Runs everywhere.
+- [Visual Studio (Community)](https://visualstudio.microsoft.com/vs/community/) - free version of Visual Studio
 - [git-tresor](https://github.com/thebitrebels/git-tresor) - Encrypt dev-secrets to store them securely next to your source code.
 
 ### Map & World Editor
 - [Tiled](https://www.mapeditor.org/) - Free, easy to use and flexible level editor.
 - [LDtk](https://ldtk.io/) - A fast, free, open source 2D level editor from the director of Dead Cells.
+- [Ogmo](https://ogmo-editor-3.github.io/) - OGMO Editor is a free, open source, project oriented level editor made for indie game developers by indie game developers.
 
 ## Audio
 
@@ -122,6 +126,7 @@
 - [Removebg](https://www.remove.bg/) - Free Online Site Which Remove backgrounds 100% automatically in 5 seconds with zero clicks.
 - [Easy Releasy](https://jannikboysen.itch.io/easy-releasy) - A downloadable template pack to create itch.io pages.
 - [BitFontMaker2](https://www.pentacom.jp/pentacom/bitfontmaker2/) - Free online pixel font editor with gallery of fonts from other users.
+- [REXPaint](https://www.gridsagegames.com/rexpaint/) - REXPaint is a powerful and user-friendly ASCII art editor. 
 
 ## Management
 
